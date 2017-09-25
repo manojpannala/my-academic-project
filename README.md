@@ -4,6 +4,8 @@
 #### Based on JavaScript, HTML5, CS3, SCSS, AngularJS.
 #### Mobile Framework used is IONIC Framework.
 
+### _Please refer to the [Documentation](https://github.com/manojpannala/my-academic-project/blob/master/docs/documentation.pdf)_
+
 ### Screenshot:
 ![#01](https://ly8emg-dm2305.files.1drv.com/y4mtIp4iO_9D8Smg-xjZCHSk494tkqNz6v2kwKZ2ktIYXSA2VFebVUYPOQc52b0vdErRi5YQR_D-ABQVN1FAymG3cpBxsdDa95Ny7JnL4Q_oOLJGj3IRIabYSs-zrB9Ugjr39TH0ljwh3SBgLsjEp7yoUoupGFArFhLaYOZWPsIdflQWvA4Zc9sONp59emTQU54zRWPdiW6QJejpO55k6NKgw?width=604&height=543&cropmode=none)
 
